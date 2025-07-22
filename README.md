@@ -1,8 +1,8 @@
 # Power-BI-Demo-Project1
 This Power BI report provides a comprehensive overview of sales performance, shipment trends, and profitability across various products, regions, and sales personnel. It visually consolidates key metrics such as total sales amount, number of boxes shipped, profit margins, and shipment contribution over time. The report also highlights top-performing salespeople, the geographical distribution of revenue, and detailed product-level performance to enable data-driven business decisions.
 
-
-#Objectives of the Report
+**
+# Objectives of the Report**
 Track Overall Sales Performance:
 
 Monitor total sales amount ($141M), total boxes shipped (9M), and overall profit margin (57.32%).
